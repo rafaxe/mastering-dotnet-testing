@@ -1,0 +1,9 @@
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\bin\Debug\netcoreapp2.2\Demo.deps.json
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\bin\Debug\netcoreapp2.2\Demo.pdb
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\netcoreapp2.2\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CoreCompileInputs.cache
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\netcoreapp2.2\Demo.dll
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\netcoreapp2.2\Demo.pdb

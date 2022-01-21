@@ -1,0 +1,12 @@
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\bin\Debug\net5.0\Demo.dll
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\bin\Debug\net5.0\ref\Demo.dll
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\bin\Debug\net5.0\Demo.pdb
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\net5.0\Demo.dll
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\net5.0\ref\Demo.dll
+C:\Projects\Testes de Unidade\projeto_unidade\Demo\obj\Debug\net5.0\Demo.pdb
